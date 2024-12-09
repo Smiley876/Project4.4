@@ -1,0 +1,64 @@
+a:hover{color: black;
+        background-color: #ffc4f5;}
+
+/*Hobby1*/
+#i1{float: left;
+ width:400px ;
+height: 400px;}
+
+ #h1{text-indent: center;
+margin-top: -200px;
+text-decoration: underline;}
+#h1::first-letter{font-size:80px; font-family:'trajan pro bold';}
+
+ #p1{margin-left:500px;
+margin-top:-10px;}
+
+/*hobby2*/
+#i2{width:500px;
+margin-top:-150px;
+margin-left:650px;}
+#h2{margin-top:-50px;
+margin-left:300px;
+text-decoration:underline;}
+#h2::first-letter{font-size: 80px;
+    font-family: 'trajan pro bold';}
+#p2{float:left;
+    margin-top:-200px;}
+
+/*hobby3*/
+#i3{width:500px;}
+#h3{margin-left:800px;
+text-decoration:underline;}
+#h3::first-letter{font-size: 80px;
+    font-family: 'trajan pro bold';}
+#p3{margin-top:-250px;
+margin-left:510px;}
+
+/*hobby4*/
+#i4{margin-top:80px;}
+#p4{margin-top:-300px;}
+
+/*hobby 5*/
+#i5{width:400px;
+margin-left:500px;}
+#h5{text-decoration:underline;
+text-indent:center;}
+#h5::first-letter{font-size: 80px;
+    font-family: 'trajan pro bold';}
+#p5{margin-top:-300px;}
+
+/*hobby6*/
+#i6{width:700px;}
+#h6::first-letter{font-size: 80px;
+    font-family: 'trajan pro bold'}
+
+    /*resources*/
+    h3{text-decoration:underline overline;}
+
+    /*background*/
+    body{background-image:url('back.jpg');
+    background-repeat:no-repeat;
+background-size:cover;
+background-attachment:scroll;
+color:white;}
